@@ -1669,9 +1669,17 @@ body.light hr.separator {
     }
 }
 
+.prize {
+   
+    /* text-align: center; */
+    margin: 0 auto; 
+}
 
 .prize img {
+
     width: 160px;
-    display: flex;
-    margin-left: 50px;
+}
+
+.div-spacing {
+    margin-top: 20px;
 }
