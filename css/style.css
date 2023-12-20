@@ -1695,4 +1695,11 @@ body.light hr.separator {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 23px;
     color: #7cd3ff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.icon a {
+    color: bisque;
+    text-decoration: none;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
